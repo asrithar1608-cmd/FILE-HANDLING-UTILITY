@@ -24,3 +24,10 @@ the classes are:
 
 
 the platform used to execute the task is visual studio code.
+
+The output for the task:
+
+<img width="978" height="427" alt="Image" src="https://github.com/user-attachments/assets/ae969004-afcc-4b82-9e04-6c95016c66a4" />
+
+
+
